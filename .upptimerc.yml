@@ -31,7 +31,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /pview-uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://en.m.wikipedia.org/wiki/File:Harman_International_logo.svg
   name: Planview Uptime
   introTitle: Provide information about the uptime of the websites
   introMessage: This is status page which uses **real-time** data.  
