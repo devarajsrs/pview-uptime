@@ -5,6 +5,15 @@ repo: pview-uptime # The name of this repository test commit
 sites:
   - name: Daptive
     url: https://daptiv.com
+  - name: Daptive PPM
+    url: https://ppm.daptiv.com
+  - name: Daptive PPM NL
+    url: https://ppm.daptiv.nl
+  - name: Daptive Sandbox
+    url: https://sandbox.daptiv.com
+  - name: Barometer
+    url: https://barometer.barometerit.com
+  
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
@@ -25,7 +34,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Planview Uptime
   introTitle: Provide information about the uptime of the websites
-  introMessage: This is status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages. 
+  introMessage: This is status page which uses **real-time** data.  
   navbar:
     - title: Status
       href: /
