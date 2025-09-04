@@ -1,6 +1,6 @@
 # Change these first
 owner: devarajsrs # Your GitHub organization or username, where this repository lives
-repo: pview-uptime # The name of this repository
+repo: pview-uptime # The name of this repository test commit
 
 sites:
   - name: Daptive
