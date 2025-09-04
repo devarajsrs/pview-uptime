@@ -13,6 +13,8 @@ sites:
     url: https://sandbox.daptiv.com
   - name: Barometer
     url: https://barometer.barometerit.com
+assignees: # Users to assign downtime issues (optional)
+  - devarajsrs
   
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
@@ -40,6 +42,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  i18n:
+  footer: Powered by @Harman
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
