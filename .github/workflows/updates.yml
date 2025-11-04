@@ -15,12 +15,12 @@
 
 
 name: Updates CI
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  repository_dispatch:
-    types: [updates]
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "0 3 * * *"
+#   repository_dispatch:
+#     types: [updates]
+#   workflow_dispatch:
 jobs:
   release:
     name: Deploy updates
